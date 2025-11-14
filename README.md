@@ -11,10 +11,6 @@ A minimal full‑stack MVP for tracking student progress with assignments, submi
 
 **📖 [Complete Technical Documentation](./DOCUMENTATION.md)** - Comprehensive guide covering architecture, API, setup, and deployment
 
-**🏗️ Architecture Diagrams:**
-- [System Architecture Diagram](./architecture-diagram.svg) - Visual overview of all system components
-- [User Flow Diagram](./user-flow-diagram.svg) - Detailed user interaction flows
-
 **📘 [Documentation Guide](./DOCS-README.md)** - Quick reference for all documentation files
 
 ## 🎯 Key Features
@@ -34,7 +30,10 @@ Frontend (Next.js) → API (Express.js) → Database (MySQL)
             File Storage (Local)
 ```
 
-See [architecture-diagram.svg](./architecture-diagram.svg) for detailed visual architecture.
+### System Architecture Diagram
+
+![EduTrack System Architecture](./architecture-diagram.svg)
+
 
 ## Folders
 
