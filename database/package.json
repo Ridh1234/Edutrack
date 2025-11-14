@@ -1,0 +1,12 @@
+{
+  "name": "edutrack-database",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test:connect": "node connect.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.11.3",
+    "dotenv": "^16.4.5"
+  }
+}
