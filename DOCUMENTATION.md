@@ -1743,16 +1743,3 @@ npm run <script>
 
 ---
 
-## Contact & Support
-
-For questions, issues, or contributions:
-
-- **GitHub Issues**: [Repository Issues Page]
-- **Documentation**: This file
-- **Email**: [your-email@domain.com]
-
----
-
-**Document Version:** 1.0  
-**Last Updated:** November 14, 2025  
-**Maintained By:** Senior Development Team
