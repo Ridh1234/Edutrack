@@ -32,7 +32,7 @@ Frontend (Next.js) → API (Express.js) → Database (MySQL)
 
 ### System Architecture Diagram
 
-![EduTrack System Architecture](./architecture-diagram.svg)
+![EduTrack System Architecture](./architecture diagram.png)
 
 
 ## Folders
